@@ -1,0 +1,24 @@
+footer{
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.075);
+}
+
+.about-us p{
+    text-align: justify;
+}
+
+.text-reset{
+    text-decoration: none;
+}
+
+/* .linked{
+    margin-left: 10px;
+} */
+
+.address{
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.infomation{
+    background-color: rgba(0, 0, 0, 0.075);
+}
